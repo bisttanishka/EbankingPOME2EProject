@@ -23,23 +23,8 @@ public class BaseClass {
 	public void setup() {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
-		// Print the absolute path to log4j.properties for debugging
-	    System.out.println("log4j.properties path: " +
-	            new File("log4j.properties").getAbsolutePath());
-		//logger = Logger.getLogger("TC_LoginTest");
-		
-		
-		// Get the absolute path to log4j.properties
-	    String log4jConfigPath = System.getProperty("user.dir") + "/log4j.properties";
-	    System.out.println("log4j.properties path: " + log4jConfigPath);
-
-	    // Configure Log4j with the specified path
-	    PropertyConfigurator.configure(log4jConfigPath);
-
-	    logger = Logger.getLogger("TC_LoginTest");
-		
-		
-		
+	    logger = Logger.getLogger("E-Banking");
+	    PropertyConfigurator.configure("log4j.properties");
 		
 	}
 
