@@ -8,11 +8,25 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">Default suite</th></tr>
-<tr><td><a href="#t0">Default test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">9,563</td><td></td><td></td></tr>
+<tr><th colspan="8">Failed suite [Suite]</th></tr>
+<tr><td><a href="#t0">BankingTest(failed)</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">44,166</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.eBanking.testCases.TC_LoginTest</td><td><a href="#m0">loginTest</a></td><td rowspan="1">1703609345363</td><td rowspan="1">5547</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Failed suite [Suite]</th></tr></tbody><tbody id="t0"><tr><th colspan="4">BankingTest(failed) &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">com.eBanking.testCases.TC_LoginTest02</td><td><a href="#m0">loginDDT</a></td><td rowspan="2">1704025921211</td><td rowspan="2">2742</td></tr><tr class="failedeven"><td><a href="#m1">loginDDT</a></td></tr><tr><th colspan="4">BankingTest(failed) &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.eBanking.testCases.TC_AddCustomer</td><td><a href="#m2">addCustomer</a></td><td rowspan="1">1704025933486</td><td rowspan="1">16957</td></tr></tbody>
 </table>
-<h2>Default test</h2><h3 id="m0">com.eBanking.testCases.TC_LoginTest#loginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>BankingTest(failed)</h2><h3 id="m0">com.eBanking.testCases.TC_LoginTest02#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>mngr545041</td><td>udyrEbe</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.eBanking.testCases.TC_LoginTest02.loginDDT(TC_LoginTest02.java:26)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 27 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.eBanking.testCases.TC_LoginTest02#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>mngr545043</td><td>udyrEbe</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.eBanking.testCases.TC_LoginTest02.loginDDT(TC_LoginTest02.java:26)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 27 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.eBanking.testCases.TC_AddCustomer#addCustomer</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

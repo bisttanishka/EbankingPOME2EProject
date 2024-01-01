@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 90.613 s <<< FAILURE! - in TestSuite
+loginDDT(com.eBanking.testCases.TC_LoginTest02)  Time elapsed: 3.156 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.eBanking.testCases.TC_LoginTest02.loginDDT(TC_LoginTest02.java:26)
+
+loginDDT(com.eBanking.testCases.TC_LoginTest02)  Time elapsed: 3.168 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.eBanking.testCases.TC_LoginTest02.loginDDT(TC_LoginTest02.java:26)
+
+addCustomer(com.eBanking.testCases.TC_AddCustomer)  Time elapsed: 18.302 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"*[name='name']"}
+  (Session info: chrome=120.0.6099.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-3CNBKPE', ip: '192.168.29.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.130, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60031}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a9024e3e6339ea68eb3bd37cd003528f
+*** Element info: {Using=name, value=name}
+	at com.eBanking.testCases.TC_AddCustomer.addCustomer(TC_AddCustomer.java:28)
+

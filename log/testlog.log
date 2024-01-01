@@ -2,3 +2,181 @@
 2023-12-26 22:19:08,706 - E-Banking -INFO - UserName Entered
 2023-12-26 22:19:08,991 - E-Banking -INFO - Password Entered
 2023-12-26 22:19:10,910 - E-Banking -INFO - Login Test Passed
+2023-12-27 11:03:45,146 - E-Banking -INFO - Browser Open
+2023-12-27 11:03:45,457 - E-Banking -INFO - UserName Entered
+2023-12-27 11:03:45,744 - E-Banking -INFO - Password Entered
+2023-12-27 11:03:47,320 - E-Banking -INFO - Login Test Passed
+2023-12-27 11:15:23,131 - E-Banking -INFO - Browser Open
+2023-12-27 11:15:29,760 - E-Banking -INFO - UserName Entered
+2023-12-27 11:15:29,937 - E-Banking -INFO - Password Entered
+2023-12-27 11:15:31,498 - E-Banking -INFO - Login Test Passed
+2023-12-27 11:16:00,569 - E-Banking -INFO - Browser Open
+2023-12-27 11:16:04,206 - E-Banking -INFO - UserName Entered
+2023-12-27 11:16:04,377 - E-Banking -INFO - Password Entered
+2023-12-27 11:16:06,248 - E-Banking -INFO - Login Test Passed
+2023-12-27 19:49:10,291 - E-Banking -INFO - Browser Open
+2023-12-27 19:49:11,003 - E-Banking -INFO - UserName Entered
+2023-12-27 19:49:11,153 - E-Banking -INFO - Password Entered
+2023-12-27 19:49:12,619 - E-Banking -INFO - Login Test Passed
+2023-12-27 21:28:32,101 - E-Banking -INFO - Browser Open
+2023-12-27 21:28:32,776 - E-Banking -INFO - UserName Entered
+2023-12-27 21:28:32,934 - E-Banking -INFO - Password Entered
+2023-12-27 21:32:15,758 - E-Banking -INFO - Browser Open
+2023-12-27 21:32:16,204 - E-Banking -INFO - UserName Entered
+2023-12-27 21:32:16,382 - E-Banking -INFO - Password Entered
+2023-12-27 23:55:47,458 - E-Banking -INFO - Login is successful
+2023-12-27 23:55:52,487 - E-Banking -WARN - Login Failed due to incorrect username and password
+2023-12-27 23:55:58,232 - E-Banking -INFO - Login is successful
+2023-12-28 00:06:02,425 - E-Banking -INFO - Login is successful
+2023-12-28 00:06:11,600 - E-Banking -INFO - Login is successful
+2023-12-30 20:52:41,273 - E-Banking -INFO - User name is provided
+2023-12-30 20:52:41,461 - E-Banking -INFO - Password is provided
+2023-12-30 20:52:43,808 - E-Banking -INFO - Providing customer details
+2023-12-30 20:56:31,338 - E-Banking -INFO - User name is provided
+2023-12-30 20:56:31,507 - E-Banking -INFO - Password is provided
+2023-12-30 20:56:32,952 - E-Banking -INFO - Providing customer details
+2023-12-30 22:19:09,378 - E-Banking -INFO - User name is provided
+2023-12-30 22:19:09,627 - E-Banking -INFO - Password is provided
+2023-12-30 22:19:11,696 - E-Banking -INFO - Providing customer details
+2023-12-30 22:20:25,386 - E-Banking -INFO - User name is provided
+2023-12-30 22:20:25,636 - E-Banking -INFO - Password is provided
+2023-12-30 22:21:22,991 - E-Banking -INFO - Browser Open
+2023-12-30 22:21:23,329 - E-Banking -INFO - UserName Entered
+2023-12-30 22:21:23,715 - E-Banking -INFO - Password Entered
+2023-12-30 22:22:01,898 - E-Banking -INFO - Browser Open
+2023-12-30 22:22:02,280 - E-Banking -INFO - UserName Entered
+2023-12-30 22:22:02,479 - E-Banking -INFO - Password Entered
+2023-12-30 22:22:04,505 - E-Banking -INFO - Login Test Passed
+2023-12-30 22:22:38,515 - E-Banking -INFO - Login is successful
+2023-12-30 22:22:47,310 - E-Banking -INFO - Login is successful
+2023-12-30 22:24:13,464 - E-Banking -INFO - User name is provided
+2023-12-30 22:24:13,747 - E-Banking -INFO - Password is provided
+2023-12-30 22:24:16,293 - E-Banking -INFO - Providing customer details
+2023-12-30 22:27:57,238 - E-Banking -INFO - User name is provided
+2023-12-30 22:27:57,951 - E-Banking -INFO - Password is provided
+2023-12-30 22:27:59,526 - E-Banking -INFO - Providing customer details
+2023-12-30 22:33:00,876 - E-Banking -INFO - User name is provided
+2023-12-30 22:33:01,363 - E-Banking -INFO - Password is provided
+2023-12-30 22:33:02,914 - E-Banking -INFO - Providing customer details
+2023-12-30 22:33:26,928 - E-Banking -INFO - customer validation is started
+2023-12-30 22:33:27,284 - E-Banking -INFO - Test case is passed
+2023-12-30 22:38:22,534 - E-Banking -INFO - User name is provided
+2023-12-30 22:38:22,765 - E-Banking -INFO - Password is provided
+2023-12-30 22:38:24,298 - E-Banking -INFO - Providing customer details
+2023-12-30 22:38:47,059 - E-Banking -INFO - customer validation is started
+2023-12-30 22:39:57,807 - E-Banking -INFO - User name is provided
+2023-12-30 22:39:58,041 - E-Banking -INFO - Password is provided
+2023-12-30 22:39:59,611 - E-Banking -INFO - Providing customer details
+2023-12-30 22:40:23,319 - E-Banking -INFO - customer validation is started
+2023-12-30 22:40:23,524 - E-Banking -INFO - Test case is passed
+2023-12-30 22:41:06,331 - E-Banking -INFO - User name is provided
+2023-12-30 22:41:06,624 - E-Banking -INFO - Password is provided
+2023-12-30 22:41:08,080 - E-Banking -INFO - Providing customer details
+2023-12-30 22:41:30,774 - E-Banking -INFO - customer validation is started
+2023-12-30 22:42:39,781 - E-Banking -INFO - User name is provided
+2023-12-30 22:42:39,926 - E-Banking -INFO - Password is provided
+2023-12-30 22:52:41,007 - E-Banking -INFO - User name is provided
+2023-12-30 22:52:41,160 - E-Banking -INFO - Password is provided
+2023-12-30 22:52:42,669 - E-Banking -INFO - Providing customer details
+2023-12-30 22:53:48,295 - E-Banking -INFO - User name is provided
+2023-12-30 22:53:48,515 - E-Banking -INFO - Password is provided
+2023-12-30 22:53:49,829 - E-Banking -INFO - Providing customer details
+2023-12-30 22:54:13,609 - E-Banking -INFO - customer validation is started
+2023-12-30 22:54:13,790 - E-Banking -INFO - Test case is passed
+2023-12-30 23:04:26,293 - E-Banking -INFO - User name is provided
+2023-12-30 23:04:26,538 - E-Banking -INFO - Password is provided
+2023-12-30 23:04:29,419 - E-Banking -INFO - Providing customer details
+2023-12-30 23:09:43,462 - E-Banking -INFO - User name is provided
+2023-12-30 23:09:43,657 - E-Banking -INFO - Password is provided
+2023-12-30 23:09:49,138 - E-Banking -INFO - Providing customer details
+2023-12-30 23:10:03,102 - E-Banking -INFO - customer validation is started
+2023-12-30 23:10:03,393 - E-Banking -INFO - Test case is passed
+2023-12-31 17:24:17,820 - E-Banking -INFO - Browser Open
+2023-12-31 17:24:18,537 - E-Banking -INFO - UserName Entered
+2023-12-31 17:24:18,656 - E-Banking -INFO - Password Entered
+2023-12-31 17:24:21,017 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:26:22,563 - E-Banking -INFO - Browser Open
+2023-12-31 17:26:22,923 - E-Banking -INFO - UserName Entered
+2023-12-31 17:26:23,031 - E-Banking -INFO - Password Entered
+2023-12-31 17:26:25,119 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:29:00,196 - E-Banking -INFO - Browser Open
+2023-12-31 17:29:01,043 - E-Banking -INFO - UserName Entered
+2023-12-31 17:29:01,158 - E-Banking -INFO - Password Entered
+2023-12-31 17:29:03,311 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:31:37,340 - E-Banking -INFO - Browser Open
+2023-12-31 17:31:39,789 - E-Banking -INFO - UserName Entered
+2023-12-31 17:31:40,018 - E-Banking -INFO - Password Entered
+2023-12-31 17:31:41,597 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:34:36,266 - E-Banking -INFO - Browser Open
+2023-12-31 17:34:37,006 - E-Banking -INFO - UserName Entered
+2023-12-31 17:34:37,114 - E-Banking -INFO - Password Entered
+2023-12-31 17:34:38,635 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:35:48,838 - E-Banking -INFO - Browser Open
+2023-12-31 17:35:49,325 - E-Banking -INFO - UserName Entered
+2023-12-31 17:35:49,473 - E-Banking -INFO - Password Entered
+2023-12-31 17:35:50,854 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:39:25,576 - E-Banking -INFO - Browser Open
+2023-12-31 17:39:26,554 - E-Banking -INFO - UserName Entered
+2023-12-31 17:39:26,747 - E-Banking -INFO - Password Entered
+2023-12-31 17:39:29,035 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:42:36,206 - E-Banking -INFO - Browser Open
+2023-12-31 17:42:36,538 - E-Banking -INFO - UserName Entered
+2023-12-31 17:42:36,680 - E-Banking -INFO - Password Entered
+2023-12-31 17:42:38,899 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:42:49,004 - E-Banking -INFO - Login is successful
+2023-12-31 17:42:57,200 - E-Banking -INFO - Login is successful
+2023-12-31 17:43:11,192 - E-Banking -INFO - User name is provided
+2023-12-31 17:43:11,292 - E-Banking -INFO - Password is provided
+2023-12-31 17:43:16,748 - E-Banking -INFO - Providing customer details
+2023-12-31 17:43:28,672 - E-Banking -INFO - customer validation is started
+2023-12-31 17:47:18,509 - E-Banking -INFO - User name is provided
+2023-12-31 17:47:18,883 - E-Banking -INFO - Password is provided
+2023-12-31 17:47:24,007 - E-Banking -INFO - Providing customer details
+2023-12-31 17:47:37,202 - E-Banking -INFO - customer validation is started
+2023-12-31 17:47:37,536 - E-Banking -INFO - Test case is passed
+2023-12-31 17:48:10,734 - E-Banking -INFO - Browser Open
+2023-12-31 17:48:11,085 - E-Banking -INFO - UserName Entered
+2023-12-31 17:48:11,214 - E-Banking -INFO - Password Entered
+2023-12-31 17:48:13,370 - E-Banking -INFO - Login Test Passed
+2023-12-31 17:48:25,090 - E-Banking -INFO - Login is successful
+2023-12-31 17:48:33,411 - E-Banking -INFO - Login is successful
+2023-12-31 17:48:45,055 - E-Banking -INFO - User name is provided
+2023-12-31 17:48:45,162 - E-Banking -INFO - Password is provided
+2023-12-31 17:48:50,959 - E-Banking -INFO - Providing customer details
+2023-12-31 17:49:01,819 - E-Banking -INFO - customer validation is started
+2023-12-31 18:02:13,647 - E-Banking -INFO - User name is provided
+2023-12-31 18:02:13,750 - E-Banking -INFO - Password is provided
+2023-12-31 18:02:18,221 - E-Banking -INFO - Providing customer details
+2023-12-31 18:02:29,903 - E-Banking -INFO - customer validation is started
+2023-12-31 18:02:30,443 - E-Banking -INFO - Test case is passed
+2023-12-31 20:44:40,877 - E-Banking -INFO - Browser Open
+2023-12-31 20:44:41,574 - E-Banking -INFO - UserName Entered
+2023-12-31 20:44:41,701 - E-Banking -INFO - Password Entered
+2023-12-31 20:44:45,090 - E-Banking -INFO - Login Test Passed
+2023-12-31 20:44:55,162 - E-Banking -INFO - Login is successful
+2023-12-31 20:45:01,927 - E-Banking -INFO - Login is successful
+2023-12-31 20:45:11,883 - E-Banking -INFO - User name is provided
+2023-12-31 20:45:12,150 - E-Banking -INFO - Password is provided
+2023-12-31 20:45:16,611 - E-Banking -INFO - Providing customer details
+2023-12-31 20:45:29,126 - E-Banking -INFO - customer validation is started
+2023-12-31 20:45:29,652 - E-Banking -INFO - Test case is passed
+2024-01-01 20:54:08,664 - E-Banking -INFO - Browser Open
+2024-01-01 20:54:09,723 - E-Banking -INFO - UserName Entered
+2024-01-01 20:54:09,860 - E-Banking -INFO - Password Entered
+2024-01-01 20:54:11,627 - E-Banking -INFO - Login Test Passed
+2024-01-01 20:54:31,090 - E-Banking -INFO - Login is successful
+2024-01-01 20:54:42,850 - E-Banking -INFO - Login is successful
+2024-01-01 20:54:57,449 - E-Banking -INFO - User name is provided
+2024-01-01 20:54:57,584 - E-Banking -INFO - Password is provided
+2024-01-01 20:55:02,360 - E-Banking -INFO - Providing customer details
+2024-01-01 20:55:14,566 - E-Banking -INFO - customer validation is started
+2024-01-01 20:55:15,197 - E-Banking -INFO - Test case is passed
+2024-01-01 23:19:10,610 - E-Banking -INFO - Browser Open
+2024-01-01 23:19:12,267 - E-Banking -INFO - UserName Entered
+2024-01-01 23:19:12,505 - E-Banking -INFO - Password Entered
+2024-01-01 23:19:14,684 - E-Banking -INFO - Login Test Passed
+2024-01-01 23:19:26,509 - E-Banking -INFO - Login is successful
+2024-01-01 23:19:33,846 - E-Banking -INFO - Login is successful
+2024-01-01 23:19:47,116 - E-Banking -INFO - User name is provided
+2024-01-01 23:19:47,254 - E-Banking -INFO - Password is provided
+2024-01-01 23:19:51,867 - E-Banking -INFO - Providing customer details

@@ -1,0 +1,9 @@
+com\eBanking\testCases\TC_LoginTest02.class
+com\eBanking\utilities\Reporting.class
+com\eBanking\testCases\TC_LoginTest.class
+com\eBanking\utilities\ReadConfig.class
+com\eBanking\testCases\BaseClass.class
+com\eBanking\pageObjects\AddCustomerPage.class
+com\eBanking\testCases\TC_AddCustomer.class
+com\eBanking\utilities\XLUtils.class
+com\eBanking\pageObjects\LoginPage.class
